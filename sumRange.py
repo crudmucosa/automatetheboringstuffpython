@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 total = 0
-print('Gimme a target range (number)')
+print('Gimme a range (number)')
 rangeTarget = int(raw_input())
 
 for num in range(rangeTarget):
